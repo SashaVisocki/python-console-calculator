@@ -29,7 +29,7 @@
 ```bash
 git clone https://github.com/ВАШ_ЛОГИН/python-console-calculator.git
 cd python-console-calculator
-
+```
 
 ## Тестирование и обратная связь
 
